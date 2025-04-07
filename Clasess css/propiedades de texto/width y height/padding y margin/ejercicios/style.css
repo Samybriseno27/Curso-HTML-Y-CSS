@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+  font-family: sans-serif;
+  color: white;
+}
+
+.card{
+  background-color: coral;
+  text-align: center;
+  width: 400px;
+}
+
+h1{
+  padding-top: 10px;
+  font-weight: 100;
+  letter-spacing: 2px;
+}
+
+h2{
+  font-size: 13px;
+  font-weight: 20px;
+}
