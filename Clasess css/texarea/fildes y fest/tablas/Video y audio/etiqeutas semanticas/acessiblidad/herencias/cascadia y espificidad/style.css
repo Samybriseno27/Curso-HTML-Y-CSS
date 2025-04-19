@@ -1,0 +1,21 @@
+#titulo{
+    color: green;
+}
+
+
+
+#titulo[class="titulo"]{
+    color:oklch(from color l c h)
+}
+
+.titulo{
+    color: red;
+}
+
+h1{
+    color: blue;
+}
+
+#titulo{
+    color: #48e;
+}

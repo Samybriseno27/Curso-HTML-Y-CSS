@@ -1,0 +1,28 @@
+ .elemento1, .elemento2, .elemento3{
+    color:red;
+}
+
+section:where(.elemento1,. .elemento2, .elemento3){
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+label:has(input:valid){
+    color: green;
+}
+
+
+label:has(input:invalid){
+    color: red;
+}

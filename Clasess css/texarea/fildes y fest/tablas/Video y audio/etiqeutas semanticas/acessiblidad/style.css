@@ -1,0 +1,25 @@
+/* SELECETOR POR ATRIBUTO */
+
+img[src="dalto.jpg"]{
+    width: 100%;
+}
+
+/* SELECCIONADO DESECENDIENTE  */
+ul li{
+    color: #666;
+}
+/* SELECETOR POR HIJO DIRECTO  */
+li>em{
+    color:#f00;
+}
+
+/* SELECTOR ADYACENTE */
+
+h1+p{
+    color:blue;
+}
+
+
+h1 ~ p{
+    color: blue;
+}

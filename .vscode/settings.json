@@ -5,5 +5,17 @@
         "markdown": false,
         "scminput": false,
         "html": true
-    }
+    },
+    "accessibility.signals.clear": {
+        "sound": "on"
+    },
+    "accessibility.signals.editsKept": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "accessibility.signals.editsUndone": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "liveshare.accessibility.voiceVolume": 20
 }
