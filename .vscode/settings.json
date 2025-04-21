@@ -7,7 +7,7 @@
         "html": true
     },
     "accessibility.signals.clear": {
-        "sound": "on"
+        "sound": "off"
     },
     "accessibility.signals.editsKept": {
         "sound": "off",
@@ -17,5 +17,11 @@
         "sound": "off",
         "announcement": "off"
     },
-    "liveshare.accessibility.voiceVolume": 20
+    "liveshare.accessibility.voiceVolume": 20,
+    "accessibility.signals.codeActionApplied": {
+        "sound": "off"
+    },
+    "accessibility.signals.codeActionTriggered": {
+        "sound": "off"
+    }
 }
